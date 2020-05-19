@@ -14,9 +14,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-<html>
-<link rel="manifest" href="/manifest.json">
-</html>
+
+[link to my manifest](https://chenlevy24.github.io/)
 
 - Bulleted
 - List
