@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 <html>
-<link rel="manifest" href="/manifest.webmanifest">
+<link rel="manifest" href="/manifest.json">
 </html>
 
 - Bulleted
