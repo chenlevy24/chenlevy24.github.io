@@ -4,5 +4,12 @@
   "display": "standalone",
   "lang": "en-US",
   "name": "chenlevy24",
-  "start_url": "https://chenlevy24.github.io/"
+  "start_url": "https://chenlevy24.github.io/",
+    "icons": [{
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjK8TIAfmZp6yGeQS-f7wxmOFyTzUcOuTSDN0QLWZOqOnBmytH&usqp=CAU",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
