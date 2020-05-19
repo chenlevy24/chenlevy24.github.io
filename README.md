@@ -14,6 +14,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+<html>
+<link rel="manifest" href="/manifest.webmanifest">
+</html>
 
 - Bulleted
 - List
