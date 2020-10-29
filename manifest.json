@@ -11,7 +11,8 @@
     "params": {
       "title": "name",
       "text": "description",
-      "url": "https://mvano.github.io/share-text/index.html"
+      "url": "https://mvano.github.io/share-text/index.html",
+    },
   },
   "start_url": "https://mvano.github.io/share-text/index.html",
     "icons": [{
