@@ -9,6 +9,7 @@
     "action": "share.html",
     "params": {
       "title": "name",
+      "method": "GET",
       "text": "description",
       "url": "https://mvano.github.io/share-text/index.html"
   }
