@@ -7,9 +7,9 @@
   "short_name": "morant",
   "share_target": {
     "action": "share.html",
+    "method": "GET",
     "params": {
       "title": "name",
-      "method": "GET",
       "text": "description",
       "url": "https://mvano.github.io/share-text/index.html"
   }
