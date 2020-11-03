@@ -6,15 +6,15 @@
   "name": "chenlevy24",
   "short_name": "api_hanamer",
   "share_target": {
-    "action": "https://chenlevy24.github.io/",
+    "action": "https://mvano.github.io/share-text/index.html",
     "method": "GET",
     "params": {
       "title": "title",
       "text": "text",
-      "url": "url"
+      "url": "https://mvano.github.io/share-text/index.html"
     }
   },
-  "start_url": "https://chenlevy24.github.io/",
+  "start_url": "https://mvano.github.io/share-text/index.html",
     "icons": [{
       "src": "https://d2f7anuvnar8n5.cloudfront.net/p/assets/animations/hurricane_1e8e060c71635d9c72b776820991d419.png",
       "sizes": "512x512",
